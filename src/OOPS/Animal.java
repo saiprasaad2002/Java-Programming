@@ -1,4 +1,5 @@
-//Inheritance and
+package OOPS;
+//Inheritance and method overloading(polymorphism)
 
 public class Animal {
     String name;
